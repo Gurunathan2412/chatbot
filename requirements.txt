@@ -1,5 +1,4 @@
 sqlite3
-setuptools
 chromadb
 embedchain
 streamlit
